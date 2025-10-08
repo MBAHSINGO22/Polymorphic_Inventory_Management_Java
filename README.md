@@ -3,7 +3,6 @@
 
 ![Java](https://img.shields.io/badge/Java-17+-red?logo=java)
 ![OOP](https://img.shields.io/badge/Object--Oriented-Programming-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 > 💡 Demonstrasi **Polimorfisme**, **Abstraksi**, **Pewarisan**, dan **Interface** untuk pengelolaan inventaris barang di Java.
 
